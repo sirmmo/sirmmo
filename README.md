@@ -1,7 +1,6 @@
-### Open Sourcing all the things...
+# Open Sourcing all the things...
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning ...
+## 🔭 Working on: OHM, Maps, Business Intelligence
 
-- 📫 How to reach me: 
-  marco.montanari@gmail.com is the best way
+## 📫 How to reach me: 
+- marco.montanari@gmail.com is the best way
