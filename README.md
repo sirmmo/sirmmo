@@ -15,3 +15,5 @@
 
 ## 🗺 Help me work on the mapping projects:
 - [Become a Patron!](https://www.patreon.com/bePatron?u=3201020)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sirmmo)](https://github.com/sirmmo/github-readme-stats)
