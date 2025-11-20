@@ -3,7 +3,6 @@
 ## 🔗 Links
 - https://medium.com/sirmmo
 - https://medium.com/open-history-map
-- https://twitch.com/sirmmo for live coding sessions on OSS 
 
 ## 🔭 Working on
 - OHM - https://www.openhistorymap.org/  
