@@ -9,6 +9,8 @@
 - OHM - https://www.openhistorymap.org/  
 - Maps - https://map.openhistorymap.org/
 - Fantasy Maps - https://www.fantasymaps.org/
+- GestaltBI
+- OntoRAG
 
 ## 📫 How to reach me: 
 - marco.montanari@gmail.com is the best way
