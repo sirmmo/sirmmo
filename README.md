@@ -8,8 +8,9 @@
 - OHM - https://www.openhistorymap.org/  
 - Maps - https://map.openhistorymap.org/
 - Fantasy Maps - https://www.fantasymaps.org/
-- GestaltBI
-- OntoRAG
+- GestaltBI - https://gestaltbi.github.io
+- OntoRAG - https://ontorag.github.io
+- GaiaWorldModel - https://gaiawm.github.io
 
 ## 📫 How to reach me: 
 - marco.montanari@gmail.com is the best way
