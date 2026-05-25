@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 - https://medium.com/sirmmo
-- https://medium.com/open-history-map
+- https://blog.openhistorymap.org
 
 ## 🔭 Working on
 - OHM - https://www.openhistorymap.org/  
