@@ -12,6 +12,7 @@
 - Hugo-Tools - https://hugo-tools.github.io
 - OntoRAG - https://ontorag.github.io
 - GaiaWorldModel - https://gaiawm.github.io
+- Flowly - https://www.flowly.net (https://github.com/flowly-org/)
 
 ## 📫 How to reach me: 
 - marco.montanari@gmail.com is the best way
