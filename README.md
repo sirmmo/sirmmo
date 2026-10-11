@@ -12,8 +12,8 @@
 - Hugo-Tools - https://hugo-tools.github.io
 - OntoRAG - https://ontorag.github.io
 - GaiaWorldModel - https://gaiawm.github.io
-- Flowly - https://www.flowly.net (https://github.com/flowly-org/)
-- Markette - https://www.markette.org (https://github.com/markette-org)
+- Flowly - https://www.flowly.net (https://github.com/flowly-org/) [full open self hostable ai-assisted trello/Asana]
+- Markette - https://www.markette.org (https://github.com/markette-org) [full open self hostable ai-assisted mixpost clone]
 
 ## 📫 How to reach me: 
 - marco.montanari@gmail.com is the best way
